@@ -7,7 +7,7 @@
 **Kelompok 6**
   - Muhamad Fazril Maulana
   - Mohamad Rafi Al-Yahya
-  - Nabiilah Afiifah
+  - Nabiilah Putri Afiifah
   - Sarah Humairah
 
 [penjelasan dan demonstrasi](https://youtu.be/UGZ81MwyG1M)
